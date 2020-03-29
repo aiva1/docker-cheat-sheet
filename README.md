@@ -44,3 +44,7 @@ $ brew update && brew upgrade
 $ brew install openssl
 ```
 
+OR access the container
+
+`$ docker exec -it postgres-docker bash`
+
